@@ -1,0 +1,2 @@
+Updated the paths in init.d script for nginx installed using apt-get.
+Tested on Ubunut 10.04 LTS
